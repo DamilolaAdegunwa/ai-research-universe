@@ -1,39 +1,31 @@
-# 🕵️ RESEARCH MISSION #2: THE CITY THAT DISAPPEARED
-## Autonomous Deep Investigation Prompt & Protocol
+# 🕵️ RESEARCH MISSION #002: THE CITY THAT DISAPPEARED (ANGKOR & THE COLLAPSE OF PRE-INDUSTRIAL HYDRAULIC MEGACITIES)
+## Autonomous Deep Forensic Investigation Protocol
 
 You are conducting an exhaustive, independent research investigation into:
-> **"The City That Disappeared"**
-> *Core Mandate:* Investigate a historically important city that vanished, was abandoned, or was swallowed by nature. What happened?
+> **"The City That Disappeared: Forensic Hydro-Climatic, LiDAR Archaeological, and Institutional Investigation of the Rise, Megacity Scale, and Fall of Greater Angkor (Angkor Thom & Yasodharapura), the Capital of the Khmer Empire."**
 
-This is not an exercise in producing a superficial encyclopedia summary or popular science article.
-Treat this as a serious, comprehensive research investigation combining:
-- Primary Source Analysis & Historiographical / Scientific Rigor
-- Structural & Systems Analysis (Institutions, Geography, Technology, Logistics, Economics)
-- Empirical Evidence & Hard Quantitative Constraints
-- Comparative Cross-Case Analysis
-- Forensic Deconstruction of Prevailing Myths and Narrative Fallacies
-- Red-Team Counter-Analysis & Contradiction Register
-- Scenario Modeling / Counterfactual Simulation
-- Strategic Takeaways for Researchers, Strategists, and Analysts
+This is not an exercise in producing a romanticized "lost jungle temple" travel essay.
+Treat this as a serious, comprehensive research project combining:
+- Geoarchaeology & Airborne LiDAR Remote Sensing (LACS / Greater Angkor Project)
+- Dendrochronology & Paleoclimatic Monsoon Reconstructions (*Fokienia hodginsii* tree-ring records)
+- Hydraulic Engineering & Civil Systems Analysis (Barays, spillways, sedimentation dynamics)
+- Agrarian Energetics & Caloric Carrying Capacity (Wet-rice cultivation, flood-pulse ecology of Tonle Sap)
+- Political Economy & Institutional Sclerosis (Theravada Buddhist transition, corvée labor breakdown, maritime trade reallocation)
+- Forensic Historiographical Deconstruction of the "1431 Ayutthaya Sacking" Catastrophic Myth
+- Comparative Urbanism (Angkor vs. Classic Maya Tikal/Calakmul vs. Tiwanaku vs. Indus Valley Harappa)
+- Red-Team Adversarial Contradiction Audit (Evaluating competing collapse hypotheses)
+- Modern Strategic Portability (Inelastic infrastructural lock-in, climate volatility, cascading failures in modern megacities)
 
-The final report should be of a standard suitable for presentation to senior historians, strategic intelligence directors, university chairs, or executive decision-makers.
+The final report should be of a standard suitable for presentation to senior geoarchaeologists, urban infrastructure planners, climate resilience analysts, and executive technology/strategy leaders.
 
----
-
-### CORE SECTIONS TO INVESTIGATE:
-1. **THE CENTRAL STRATEGIC INQUIRY:**
-   Formulate the core causal question. Deconstruct the initial conditions, fundamental mechanisms, and why this phenomenon matters structurally rather than merely descriptively.
-2. **EMPIRICAL & HISTORICAL CONTEXT:**
-   Map the operational landscape, geography, timeline, material constraints, and institutional architecture.
-3. **STRUCTURAL MECHANISMS & LOGISTICS:**
-   Analyze the engine of the phenomenon: logistics, supply chains, incentive alignments, command-and-control structures, resource flows, and technological multipliers.
-4. **FORENSIC DECONSTRUCTION OF MYTHS:**
-   Contrast romanticized narratives or standard pop-history/pop-science claims against primary archaeological, textual, statistical, or empirical data.
-5. **COMPARATIVE CASE STUDIES:**
-   Compare this system against at least 3 parallel historical or modern equivalents. Identify where the analogies hold and where they break down.
-6. **RED-TEAM ADVERSARIAL AUDIT:**
-   Identify contradictions in the source record, alternative explanatory hypotheses, and where standard theories fail under adversarial pressure.
-7. **STRATEGIC & INSTITUTIONAL TAKEAWAYS:**
-   Extract timeless principles of organization, systemic failure modes, resilience, and human agency.
-8. **PRIMARY SOURCE & ARCHIVAL BIBLIOGRAPHY:**
-   Index critical primary texts, inscriptions, archival records, or contemporary empirical literature.
+### CORE DELIVERABLES REQUIRED:
+- Deliverable 1: Executive Summary & The Hydro-Climatic Squeeze Thesis
+- Deliverable 2: The Physical & Hydraulic Anatomy of Greater Angkor (1,000 km² Low-Density Megacity)
+- Deliverable 3: Paleoclimatic Forensic Data: Megadroughts, Monsoons, and Dendrochronology
+- Deliverable 4: The Failure of the Hydraulic Machine: Sedimentation, Incision & Infrastructure Lock-In
+- Deliverable 5: Political Economy, Corvée Labor, and Religious Mutation
+- Deliverable 6: The 1431 Sacking Myth vs. 150-Year Gradual Systemic Attrition
+- Deliverable 7: Comparative Matrix: Pre-Industrial Hydraulic Urban Collapses
+- Deliverable 8: Red-Team Adversarial Audit & Contradiction Register
+- Deliverable 9: Strategic Invariants & Lessons for 21st-Century Climate Infrastructure
+- Deliverable 10: Primary Epigraphic, Chinese Diplomatic, and Scientific Bibliography

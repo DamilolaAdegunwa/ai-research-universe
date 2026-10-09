@@ -16,7 +16,7 @@
 ### 🏛️ Executive Overview
 This repository functions as an autonomous **personal research institution**. Rather than shallow essays or popular science summaries, this repository contains **200 fully realized, independent research missions**.
 
-Each research mission is housed within its dedicated subfolder inside [`reports/`](reports/), formatted with:
+Each research mission is housed within its dedicated subfolder inside [`reports/`](reports/), formatted with 3-digit zero-padded numbering (e.g., `#001`, `#042`, `#104`):
 1. **`PROMPT.md`**: The exhaustive, multi-disciplinary research protocol and prompt specifying the central strategic question, methodological constraints, forensic myth deconstruction, and red-team audits.
 2. **`RESEARCH_REPORT.md`**: The comprehensive research report detailing causal architectures, empirical baselines, systems models, comparative case studies, and primary bibliographies.
 
@@ -30,19 +30,19 @@ ai-research-universe/
 ├── assets/
 │   └── thriller_trailer.mp4             <-- Generated research teaser trailer
 ├── reports/
-│   ├── Mission #1 — The AI Agent Economy/
+│   ├── Mission #001 — The AI Agent Economy/
 │   │   ├── PROMPT.md
 │   │   ├── RESEARCH_REPORT.md
 │   │   ├── MASTER_RESEARCH_REPORT.md
 │   │   └── DELIVERABLE_*.md (15 deliverables)
-│   ├── Mission #2 — The City That Disappeared/
+│   ├── Mission #002 — The City That Disappeared/
 │   │   ├── PROMPT.md
 │   │   └── RESEARCH_REPORT.md
 │   ├── ...
 │   ├── Mission #104 — How the Mongols Conquered So Much Territory/
 │   │   ├── PROMPT.md
 │   │   └── RESEARCH_REPORT.md
-│   └── ... (All 200 Missions)
+│   └── ... (All 200 Missions from #001 to #200)
 ├── LICENSE
 └── README.md
 ```
@@ -53,105 +53,105 @@ ai-research-universe/
 
 | Mission # | Title | Primary Category | Folder Link |
 | :---: | :--- | :--- | :--- |
-| **#1** | The AI Agent Economy | Technology, Labour-Markets & The Future of Work | [`reports/Mission #1 — The AI Agent Economy`](reports/Mission%20%231%20%E2%80%94%20The%20AI%20Agent%20Economy) |
-| **#2** | The City That Disappeared | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #2 — The City That Disappeared`](reports/Mission%20%232%20%E2%80%94%20The%20City%20That%20Disappeared) |
-| **#3** | How Did Ancient People Actually Live? | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #3 — How Did Ancient People Actually Live`](reports/Mission%20%233%20%E2%80%94%20How%20Did%20Ancient%20People%20Actually%20Live%3F) |
-| **#4** | The Richest Person in Ancient History | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #4 — The Richest Person in Ancient History`](reports/Mission%20%234%20%E2%80%94%20The%20Richest%20Person%20in%20Ancient%20History) |
-| **#5** | The Most Important Invention Nobody Talks About | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #5 — The Most Important Invention Nobody Talks About`](reports/Mission%20%235%20%E2%80%94%20The%20Most%20Important%20Invention%20Nobody%20Talks%20About) |
-| **#6** | Why Did the Roman Empire Really Fall? | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #6 — Why Did the Roman Empire Really Fall`](reports/Mission%20%236%20%E2%80%94%20Why%20Did%20the%20Roman%20Empire%20Really%20Fall%3F) |
-| **#7** | The Lost Libraries of History | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #7 — The Lost Libraries of History`](reports/Mission%20%237%20%E2%80%94%20The%20Lost%20Libraries%20of%20History) |
-| **#8** | Ancient Africa Before Colonialism | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #8 — Ancient Africa Before Colonialism`](reports/Mission%20%238%20%E2%80%94%20Ancient%20Africa%20Before%20Colonialism) |
-| **#9** | The Kingdom of Benin | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #9 — The Kingdom of Benin`](reports/Mission%20%239%20%E2%80%94%20The%20Kingdom%20of%20Benin) |
-| **#10** | Timbuktu: What Actually Happened There? | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #10 — Timbuktu What Actually Happened There`](reports/Mission%20%2310%20%E2%80%94%20Timbuktu%3A%20What%20Actually%20Happened%20There%3F) |
-| **#11** | The Trans-Saharan Trade Network | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #11 — The Trans-Saharan Trade Network`](reports/Mission%20%2311%20%E2%80%94%20The%20Trans-Saharan%20Trade%20Network) |
-| **#12** | The World's Oldest Continuously Inhabited Cities | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #12 — The World's Oldest Continuously Inhabited Cities`](reports/Mission%20%2312%20%E2%80%94%20The%20World's%20Oldest%20Continuously%20Inhabited%20Cities) |
-| **#13** | The Great Migration of Humanity | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #13 — The Great Migration of Humanity`](reports/Mission%20%2313%20%E2%80%94%20The%20Great%20Migration%20of%20Humanity) |
-| **#14** | The First Cities | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #14 — The First Cities`](reports/Mission%20%2314%20%E2%80%94%20The%20First%20Cities) |
-| **#15** | Why Civilizations Collapse | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #15 — Why Civilizations Collapse`](reports/Mission%20%2315%20%E2%80%94%20Why%20Civilizations%20Collapse) |
-| **#16** | Why Are Some Cities Rich and Others Poor? | 🗺️ Geography & Places | [`reports/Mission #16 — Why Are Some Cities Rich and Others Poor`](reports/Mission%20%2316%20%E2%80%94%20Why%20Are%20Some%20Cities%20Rich%20and%20Others%20Poor%3F) |
-| **#17** | The World's Most Geographically Isolated Places | 🗺️ Geography & Places | [`reports/Mission #17 — The World's Most Geographically Isolated Places`](reports/Mission%20%2317%20%E2%80%94%20The%20World's%20Most%20Geographically%20Isolated%20Places) |
-| **#18** | Why Are Capitals Where They Are? | 🗺️ Geography & Places | [`reports/Mission #18 — Why Are Capitals Where They Are`](reports/Mission%20%2318%20%E2%80%94%20Why%20Are%20Capitals%20Where%20They%20Are%3F) |
-| **#19** | Borders That Make No Sense | 🗺️ Geography & Places | [`reports/Mission #19 — Borders That Make No Sense`](reports/Mission%20%2319%20%E2%80%94%20Borders%20That%20Make%20No%20Sense) |
-| **#20** | The World's Most Valuable Real Estate | 🗺️ Geography & Places | [`reports/Mission #20 — The World's Most Valuable Real Estate`](reports/Mission%20%2320%20%E2%80%94%20The%20World's%20Most%20Valuable%20Real%20Estate) |
-| **#21** | Cities Built on Water | 🗺️ Geography & Places | [`reports/Mission #21 — Cities Built on Water`](reports/Mission%20%2321%20%E2%80%94%20Cities%20Built%20on%20Water) |
-| **#22** | The World's Underground Cities | 🗺️ Geography & Places | [`reports/Mission #22 — The World's Underground Cities`](reports/Mission%20%2322%20%E2%80%94%20The%20World's%20Underground%20Cities) |
-| **#23** | Why Lagos Is Where Lagos Is | 🗺️ Geography & Places | [`reports/Mission #23 — Why Lagos Is Where Lagos Is`](reports/Mission%20%2323%20%E2%80%94%20Why%20Lagos%20Is%20Where%20Lagos%20Is) |
-| **#24** | The Future of Lagos | 🗺️ Geography & Places | [`reports/Mission #24 — The Future of Lagos`](reports/Mission%20%2324%20%E2%80%94%20The%20Future%20of%20Lagos) |
-| **#25** | The World's Most Extreme Habitable Places | 🗺️ Geography & Places | [`reports/Mission #25 — The World's Most Extreme Habitable Places`](reports/Mission%20%2325%20%E2%80%94%20The%20World's%20Most%20Extreme%20Habitable%20Places) |
-| **#26** | The Untold Economic History of Nigeria | 🇳🇬 Nigeria | [`reports/Mission #26 — The Untold Economic History of Nigeria`](reports/Mission%20%2326%20%E2%80%94%20The%20Untold%20Economic%20History%20of%20Nigeria) |
-| **#27** | How Nigeria Became Nigeria | 🇳🇬 Nigeria | [`reports/Mission #27 — How Nigeria Became Nigeria`](reports/Mission%20%2327%20%E2%80%94%20How%20Nigeria%20Became%20Nigeria) |
-| **#28** | Nigeria Before Oil | 🇳🇬 Nigeria | [`reports/Mission #28 — Nigeria Before Oil`](reports/Mission%20%2328%20%E2%80%94%20Nigeria%20Before%20Oil) |
-| **#29** | The History of Nigerian Banking | 🇳🇬 Nigeria | [`reports/Mission #29 — The History of Nigerian Banking`](reports/Mission%20%2329%20%E2%80%94%20The%20History%20of%20Nigerian%20Banking) |
-| **#30** | The Story of the Nigerian Naira | 🇳🇬 Nigeria | [`reports/Mission #30 — The Story of the Nigerian Naira`](reports/Mission%20%2330%20%E2%80%94%20The%20Story%20of%20the%20Nigerian%20Naira) |
-| **#31** | Why Nigeria Has So Many Ethnic Groups | 🇳🇬 Nigeria | [`reports/Mission #31 — Why Nigeria Has So Many Ethnic Groups`](reports/Mission%20%2331%20%E2%80%94%20Why%20Nigeria%20Has%20So%20Many%20Ethnic%20Groups) |
-| **#32** | The Nigerian Railway Story | 🇳🇬 Nigeria | [`reports/Mission #32 — The Nigerian Railway Story`](reports/Mission%20%2332%20%E2%80%94%20The%20Nigerian%20Railway%20Story) |
-| **#33** | The Nigerian Port System | 🇳🇬 Nigeria | [`reports/Mission #33 — The Nigerian Port System`](reports/Mission%20%2333%20%E2%80%94%20The%20Nigerian%20Port%20System) |
-| **#34** | Nigerian Cities That Could Have Become Major Global Hubs | 🇳🇬 Nigeria | [`reports/Mission #34 — Nigerian Cities That Could Have Become Major Global Hubs`](reports/Mission%20%2334%20%E2%80%94%20Nigerian%20Cities%20That%20Could%20Have%20Become%20Major%20Global%20Hubs) |
-| **#35** | The History of Nigerian Entrepreneurship | 🇳🇬 Nigeria | [`reports/Mission #35 — The History of Nigerian Entrepreneurship`](reports/Mission%20%2335%20%E2%80%94%20The%20History%20of%20Nigerian%20Entrepreneurship) |
-| **#36** | Why Does Money Have Value? | 💰 Money, Markets & Economics | [`reports/Mission #36 — Why Does Money Have Value`](reports/Mission%20%2336%20%E2%80%94%20Why%20Does%20Money%20Have%20Value%3F) |
-| **#37** | How Banks Actually Create Money | 💰 Money, Markets & Economics | [`reports/Mission #37 — How Banks Actually Create Money`](reports/Mission%20%2337%20%E2%80%94%20How%20Banks%20Actually%20Create%20Money) |
-| **#38** | The History of Financial Crises | 💰 Money, Markets & Economics | [`reports/Mission #38 — The History of Financial Crises`](reports/Mission%20%2338%20%E2%80%94%20The%20History%20of%20Financial%20Crises) |
-| **#39** | Why Some Countries Are Rich | 💰 Money, Markets & Economics | [`reports/Mission #39 — Why Some Countries Are Rich`](reports/Mission%20%2339%20%E2%80%94%20Why%20Some%20Countries%20Are%20Rich) |
-| **#40** | Why Some Countries Stay Poor | 💰 Money, Markets & Economics | [`reports/Mission #40 — Why Some Countries Stay Poor`](reports/Mission%20%2340%20%E2%80%94%20Why%20Some%20Countries%20Stay%20Poor) |
-| **#41** | The Dutch Tulip Mania | 💰 Money, Markets & Economics | [`reports/Mission #41 — The Dutch Tulip Mania`](reports/Mission%20%2341%20%E2%80%94%20The%20Dutch%20Tulip%20Mania) |
-| **#42** | The South Sea Bubble | 💰 Money, Markets & Economics | [`reports/Mission #42 — The South Sea Bubble`](reports/Mission%20%2342%20%E2%80%94%20The%20South%20Sea%20Bubble) |
-| **#43** | The Great Depression | 💰 Money, Markets & Economics | [`reports/Mission #43 — The Great Depression`](reports/Mission%20%2343%20%E2%80%94%20The%20Great%20Depression) |
-| **#44** | Hyperinflation | 💰 Money, Markets & Economics | [`reports/Mission #44 — Hyperinflation`](reports/Mission%20%2344%20%E2%80%94%20Hyperinflation) |
-| **#45** | Why Housing Became So Expensive | 💰 Money, Markets & Economics | [`reports/Mission #45 — Why Housing Became So Expensive`](reports/Mission%20%2345%20%E2%80%94%20Why%20Housing%20Became%20So%20Expensive) |
-| **#46** | The World's Largest Family Businesses | 💰 Money, Markets & Economics | [`reports/Mission #46 — The World's Largest Family Businesses`](reports/Mission%20%2346%20%E2%80%94%20The%20World's%20Largest%20Family%20Businesses) |
-| **#47** | How Billion-Dollar Companies Actually Make Money | 💰 Money, Markets & Economics | [`reports/Mission #47 — How Billion-Dollar Companies Actually Make Money`](reports/Mission%20%2347%20%E2%80%94%20How%20Billion-Dollar%20Companies%20Actually%20Make%20Money) |
-| **#48** | The World's Most Profitable Industries | 💰 Money, Markets & Economics | [`reports/Mission #48 — The World's Most Profitable Industries`](reports/Mission%20%2348%20%E2%80%94%20The%20World's%20Most%20Profitable%20Industries) |
-| **#49** | Why Some Companies Survive for 100+ Years | 🏦 Companies & Business | [`reports/Mission #49 — Why Some Companies Survive for 100+ Years`](reports/Mission%20%2349%20%E2%80%94%20Why%20Some%20Companies%20Survive%20for%20100+%20Years) |
-| **#50** | Companies That Were Once Unstoppable | 🏦 Companies & Business | [`reports/Mission #50 — Companies That Were Once Unstoppable`](reports/Mission%20%2350%20%E2%80%94%20Companies%20That%20Were%20Once%20Unstoppable) |
-| **#51** | The Rise and Fall of Nokia | 🏦 Companies & Business | [`reports/Mission #51 — The Rise and Fall of Nokia`](reports/Mission%20%2351%20%E2%80%94%20The%20Rise%20and%20Fall%20of%20Nokia) |
-| **#52** | The Rise and Fall of Kodak | 🏦 Companies & Business | [`reports/Mission #52 — The Rise and Fall of Kodak`](reports/Mission%20%2352%20%E2%80%94%20The%20Rise%20and%20Fall%20of%20Kodak) |
-| **#53** | Why Some Startups Become Empires | 🏦 Companies & Business | [`reports/Mission #53 — Why Some Startups Become Empires`](reports/Mission%20%2353%20%E2%80%94%20Why%20Some%20Startups%20Become%20Empires) |
-| **#54** | Corporate Scandals That Changed Regulation | 🏦 Companies & Business | [`reports/Mission #54 — Corporate Scandals That Changed Regulation`](reports/Mission%20%2354%20%E2%80%94%20Corporate%20Scandals%20That%20Changed%20Regulation) |
-| **#55** | The World's Most Powerful Family Businesses | 🏦 Companies & Business | [`reports/Mission #55 — The World's Most Powerful Family Businesses`](reports/Mission%20%2355%20%E2%80%94%20The%20World's%20Most%20Powerful%20Family%20Businesses) |
-| **#56** | How McDonald's Became a Global Institution | 🏦 Companies & Business | [`reports/Mission #56 — How McDonald's Became a Global Institution`](reports/Mission%20%2356%20%E2%80%94%20How%20McDonald's%20Became%20a%20Global%20Institution) |
-| **#57** | How Walmart Built Its Empire | 🏦 Companies & Business | [`reports/Mission #57 — How Walmart Built Its Empire`](reports/Mission%20%2357%20%E2%80%94%20How%20Walmart%20Built%20Its%20Empire) |
-| **#58** | The Secret Economics of Luxury Brands | 🏦 Companies & Business | [`reports/Mission #58 — The Secret Economics of Luxury Brands`](reports/Mission%20%2358%20%E2%80%94%20The%20Secret%20Economics%20of%20Luxury%20Brands) |
-| **#59** | How We Discovered Electricity | 🔬 Science | [`reports/Mission #59 — How We Discovered Electricity`](reports/Mission%20%2359%20%E2%80%94%20How%20We%20Discovered%20Electricity) |
-| **#60** | The History of Human Understanding of Disease | 🔬 Science | [`reports/Mission #60 — The History of Human Understanding of Disease`](reports/Mission%20%2360%20%E2%80%94%20The%20History%20of%20Human%20Understanding%20of%20Disease) |
-| **#61** | The Discovery of DNA | 🔬 Science | [`reports/Mission #61 — The Discovery of DNA`](reports/Mission%20%2361%20%E2%80%94%20The%20Discovery%20of%20DNA) |
-| **#62** | How Vaccines Were Invented | 🔬 Science | [`reports/Mission #62 — How Vaccines Were Invented`](reports/Mission%20%2362%20%E2%80%94%20How%20Vaccines%20Were%20Invented) |
-| **#63** | The Scientific Revolution | 🔬 Science | [`reports/Mission #63 — The Scientific Revolution`](reports/Mission%20%2363%20%E2%80%94%20The%20Scientific%20Revolution) |
-| **#64** | The Greatest Scientific Rivalries | 🔬 Science | [`reports/Mission #64 — The Greatest Scientific Rivalries`](reports/Mission%20%2364%20%E2%80%94%20The%20Greatest%20Scientific%20Rivalries) |
-| **#65** | Scientific Discoveries Made by Accident | 🔬 Science | [`reports/Mission #65 — Scientific Discoveries Made by Accident`](reports/Mission%20%2365%20%E2%80%94%20Scientific%20Discoveries%20Made%20by%20Accident) |
-| **#66** | Things Science Still Cannot Explain | 🔬 Science | [`reports/Mission #66 — Things Science Still Cannot Explain`](reports/Mission%20%2366%20%E2%80%94%20Things%20Science%20Still%20Cannot%20Explain) |
-| **#67** | The Deepest Thing Humans Have Ever Measured | 🔬 Science | [`reports/Mission #67 — The Deepest Thing Humans Have Ever Measured`](reports/Mission%20%2367%20%E2%80%94%20The%20Deepest%20Thing%20Humans%20Have%20Ever%20Measured) |
-| **#68** | How We Know the Earth Is Ancient | 🔬 Science | [`reports/Mission #68 — How We Know the Earth Is Ancient`](reports/Mission%20%2368%20%E2%80%94%20How%20We%20Know%20the%20Earth%20Is%20Ancient) |
-| **#69** | How We Know the Universe Is Expanding | 🔬 Science | [`reports/Mission #69 — How We Know the Universe Is Expanding`](reports/Mission%20%2369%20%E2%80%94%20How%20We%20Know%20the%20Universe%20Is%20Expanding) |
-| **#70** | The Search for Life Beyond Earth | 🔬 Science | [`reports/Mission #70 — The Search for Life Beyond Earth`](reports/Mission%20%2370%20%E2%80%94%20The%20Search%20for%20Life%20Beyond%20Earth) |
-| **#71** | How the Solar System Formed | 🌌 Space | [`reports/Mission #71 — How the Solar System Formed`](reports/Mission%20%2371%20%E2%80%94%20How%20the%20Solar%20System%20Formed) |
-| **#72** | The Race to the Moon | 🌌 Space | [`reports/Mission #72 — The Race to the Moon`](reports/Mission%20%2372%20%E2%80%94%20The%20Race%20to%20the%20Moon) |
-| **#73** | Why Mars Captures Human Imagination | 🌌 Space | [`reports/Mission #73 — Why Mars Captures Human Imagination`](reports/Mission%20%2373%20%E2%80%94%20Why%20Mars%20Captures%20Human%20Imagination) |
-| **#74** | What Would It Take to Build a City on Mars? | 🌌 Space | [`reports/Mission #74 — What Would It Take to Build a City on Mars`](reports/Mission%20%2374%20%E2%80%94%20What%20Would%20It%20Take%20to%20Build%20a%20City%20on%20Mars%3F) |
-| **#75** | The Strange Worlds of the Solar System | 🌌 Space | [`reports/Mission #75 — The Strange Worlds of the Solar System`](reports/Mission%20%2375%20%E2%80%94%20The%20Strange%20Worlds%20of%20the%20Solar%20System) |
-| **#76** | Black Holes: What We Actually Know | 🌌 Space | [`reports/Mission #76 — Black Holes What We Actually Know`](reports/Mission%20%2376%20%E2%80%94%20Black%20Holes%3A%20What%20We%20Actually%20Know) |
-| **#77** | The Search for Extraterrestrial Intelligence | 🌌 Space | [`reports/Mission #77 — The Search for Extraterrestrial Intelligence`](reports/Mission%20%2377%20%E2%80%94%20The%20Search%20for%20Extraterrestrial%20Intelligence) |
-| **#78** | The Space Race Beyond America and Russia | 🌌 Space | [`reports/Mission #78 — The Space Race Beyond America and Russia`](reports/Mission%20%2378%20%E2%80%94%20The%20Space%20Race%20Beyond%20America%20and%20Russia) |
-| **#79** | The Economics of Space | 🌌 Space | [`reports/Mission #79 — The Economics of Space`](reports/Mission%20%2379%20%E2%80%94%20The%20Economics%20of%20Space) |
-| **#80** | The History of Space Stations | 🌌 Space | [`reports/Mission #80 — The History of Space Stations`](reports/Mission%20%2380%20%E2%80%94%20The%20History%20of%20Space%20Stations) |
-| **#81** | The Parts of Earth We Barely Know | 🌊 Oceans & Earth | [`reports/Mission #81 — The Parts of Earth We Barely Know`](reports/Mission%20%2381%20%E2%80%94%20The%20Parts%20of%20Earth%20We%20Barely%20Know) |
-| **#82** | The Deep-Sea Economy | 🌊 Oceans & Earth | [`reports/Mission #82 — The Deep-Sea Economy`](reports/Mission%20%2382%20%E2%80%94%20The%20Deep-Sea%20Economy) |
-| **#83** | How Ocean Currents Shape Civilization | 🌊 Oceans & Earth | [`reports/Mission #83 — How Ocean Currents Shape Civilization`](reports/Mission%20%2383%20%E2%80%94%20How%20Ocean%20Currents%20Shape%20Civilization) |
-| **#84** | The World's Great Rivers | 🌊 Oceans & Earth | [`reports/Mission #84 — The World's Great Rivers`](reports/Mission%20%2384%20%E2%80%94%20The%20World's%20Great%20Rivers) |
-| **#85** | The Story of the Sahara | 🌊 Oceans & Earth | [`reports/Mission #85 — The Story of the Sahara`](reports/Mission%20%2385%20%E2%80%94%20The%20Story%20of%20the%20Sahara) |
-| **#86** | When the Sahara Was Green | 🌊 Oceans & Earth | [`reports/Mission #86 — When the Sahara Was Green`](reports/Mission%20%2386%20%E2%80%94%20When%20the%20Sahara%20Was%20Green) |
-| **#87** | Earth's Greatest Natural Disasters | 🌊 Oceans & Earth | [`reports/Mission #87 — Earth's Greatest Natural Disasters`](reports/Mission%20%2387%20%E2%80%94%20Earth's%20Greatest%20Natural%20Disasters) |
-| **#88** | Supervolcanoes | 🌊 Oceans & Earth | [`reports/Mission #88 — Supervolcanoes`](reports/Mission%20%2388%20%E2%80%94%20Supervolcanoes) |
-| **#89** | Why Earth Has Continents | 🌊 Oceans & Earth | [`reports/Mission #89 — Why Earth Has Continents`](reports/Mission%20%2389%20%E2%80%94%20Why%20Earth%20Has%20Continents) |
-| **#90** | The World's Most Dangerous Natural Environments | 🌊 Oceans & Earth | [`reports/Mission #90 — The World's Most Dangerous Natural Environments`](reports/Mission%20%2390%20%E2%80%94%20The%20World's%20Most%20Dangerous%20Natural%20Environments) |
-| **#91** | Why Do Countries Have Different Political Systems? | 🏛️ Politics, States & Institutions | [`reports/Mission #91 — Why Do Countries Have Different Political Systems`](reports/Mission%20%2391%20%E2%80%94%20Why%20Do%20Countries%20Have%20Different%20Political%20Systems%3F) |
-| **#92** | How Modern Democracy Emerged | 🏛️ Politics, States & Institutions | [`reports/Mission #92 — How Modern Democracy Emerged`](reports/Mission%20%2392%20%E2%80%94%20How%20Modern%20Democracy%20Emerged) |
-| **#93** | Why Do Empires Expand? | 🏛️ Politics, States & Institutions | [`reports/Mission #93 — Why Do Empires Expand`](reports/Mission%20%2393%20%E2%80%94%20Why%20Do%20Empires%20Expand%3F) |
-| **#94** | Why Do Empires Collapse? | 🏛️ Politics, States & Institutions | [`reports/Mission #94 — Why Do Empires Collapse`](reports/Mission%20%2394%20%E2%80%94%20Why%20Do%20Empires%20Collapse%3F) |
-| **#95** | How Borders Are Created | 🏛️ Politics, States & Institutions | [`reports/Mission #95 — How Borders Are Created`](reports/Mission%20%2395%20%E2%80%94%20How%20Borders%20Are%20Created) |
-| **#96** | The World's Oldest Constitutions | 🏛️ Politics, States & Institutions | [`reports/Mission #96 — The World's Oldest Constitutions`](reports/Mission%20%2396%20%E2%80%94%20The%20World's%20Oldest%20Constitutions) |
-| **#97** | How Bureaucracies Became So Powerful | 🏛️ Politics, States & Institutions | [`reports/Mission #97 — How Bureaucracies Became So Powerful`](reports/Mission%20%2397%20%E2%80%94%20How%20Bureaucracies%20Became%20So%20Powerful) |
-| **#98** | Why Some Governments Deliver Better Public Services | 🏛️ Politics, States & Institutions | [`reports/Mission #98 — Why Some Governments Deliver Better Public Services`](reports/Mission%20%2398%20%E2%80%94%20Why%20Some%20Governments%20Deliver%20Better%20Public%20Services) |
-| **#99** | The History of Taxation | 🏛️ Politics, States & Institutions | [`reports/Mission #99 — The History of Taxation`](reports/Mission%20%2399%20%E2%80%94%20The%20History%20of%20Taxation) |
+| **#001** | The AI Agent Economy | Technology, Labour-Markets & The Future of Work | [`reports/Mission #001 — The AI Agent Economy`](reports/Mission%20%23001%20%E2%80%94%20The%20AI%20Agent%20Economy) |
+| **#002** | The City That Disappeared | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #002 — The City That Disappeared`](reports/Mission%20%23002%20%E2%80%94%20The%20City%20That%20Disappeared) |
+| **#003** | How Did Ancient People Actually Live? | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #003 — How Did Ancient People Actually Live`](reports/Mission%20%23003%20%E2%80%94%20How%20Did%20Ancient%20People%20Actually%20Live%3F) |
+| **#004** | The Richest Person in Ancient History | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #004 — The Richest Person in Ancient History`](reports/Mission%20%23004%20%E2%80%94%20The%20Richest%20Person%20in%20Ancient%20History) |
+| **#005** | The Most Important Invention Nobody Talks About | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #005 — The Most Important Invention Nobody Talks About`](reports/Mission%20%23005%20%E2%80%94%20The%20Most%20Important%20Invention%20Nobody%20Talks%20About) |
+| **#006** | Why Did the Roman Empire Really Fall? | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #006 — Why Did the Roman Empire Really Fall`](reports/Mission%20%23006%20%E2%80%94%20Why%20Did%20the%20Roman%20Empire%20Really%20Fall%3F) |
+| **#007** | The Lost Libraries of History | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #007 — The Lost Libraries of History`](reports/Mission%20%23007%20%E2%80%94%20The%20Lost%20Libraries%20of%20History) |
+| **#008** | Ancient Africa Before Colonialism | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #008 — Ancient Africa Before Colonialism`](reports/Mission%20%23008%20%E2%80%94%20Ancient%20Africa%20Before%20Colonialism) |
+| **#009** | The Kingdom of Benin | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #009 — The Kingdom of Benin`](reports/Mission%20%23009%20%E2%80%94%20The%20Kingdom%20of%20Benin) |
+| **#010** | Timbuktu: What Actually Happened There? | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #010 — Timbuktu What Actually Happened There`](reports/Mission%20%23010%20%E2%80%94%20Timbuktu%3A%20What%20Actually%20Happened%20There%3F) |
+| **#011** | The Trans-Saharan Trade Network | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #011 — The Trans-Saharan Trade Network`](reports/Mission%20%23011%20%E2%80%94%20The%20Trans-Saharan%20Trade%20Network) |
+| **#012** | The World's Oldest Continuously Inhabited Cities | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #012 — The World's Oldest Continuously Inhabited Cities`](reports/Mission%20%23012%20%E2%80%94%20The%20World's%20Oldest%20Continuously%20Inhabited%20Cities) |
+| **#013** | The Great Migration of Humanity | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #013 — The Great Migration of Humanity`](reports/Mission%20%23013%20%E2%80%94%20The%20Great%20Migration%20of%20Humanity) |
+| **#014** | The First Cities | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #014 — The First Cities`](reports/Mission%20%23014%20%E2%80%94%20The%20First%20Cities) |
+| **#015** | Why Civilizations Collapse | 🌍 History, Civilizations & Lost Worlds | [`reports/Mission #015 — Why Civilizations Collapse`](reports/Mission%20%23015%20%E2%80%94%20Why%20Civilizations%20Collapse) |
+| **#016** | Why Are Some Cities Rich and Others Poor? | 🗺️ Geography & Places | [`reports/Mission #016 — Why Are Some Cities Rich and Others Poor`](reports/Mission%20%23016%20%E2%80%94%20Why%20Are%20Some%20Cities%20Rich%20and%20Others%20Poor%3F) |
+| **#017** | The World's Most Geographically Isolated Places | 🗺️ Geography & Places | [`reports/Mission #017 — The World's Most Geographically Isolated Places`](reports/Mission%20%23017%20%E2%80%94%20The%20World's%20Most%20Geographically%20Isolated%20Places) |
+| **#018** | Why Are Capitals Where They Are? | 🗺️ Geography & Places | [`reports/Mission #018 — Why Are Capitals Where They Are`](reports/Mission%20%23018%20%E2%80%94%20Why%20Are%20Capitals%20Where%20They%20Are%3F) |
+| **#019** | Borders That Make No Sense | 🗺️ Geography & Places | [`reports/Mission #019 — Borders That Make No Sense`](reports/Mission%20%23019%20%E2%80%94%20Borders%20That%20Make%20No%20Sense) |
+| **#020** | The World's Most Valuable Real Estate | 🗺️ Geography & Places | [`reports/Mission #020 — The World's Most Valuable Real Estate`](reports/Mission%20%23020%20%E2%80%94%20The%20World's%20Most%20Valuable%20Real%20Estate) |
+| **#021** | Cities Built on Water | 🗺️ Geography & Places | [`reports/Mission #021 — Cities Built on Water`](reports/Mission%20%23021%20%E2%80%94%20Cities%20Built%20on%20Water) |
+| **#022** | The World's Underground Cities | 🗺️ Geography & Places | [`reports/Mission #022 — The World's Underground Cities`](reports/Mission%20%23022%20%E2%80%94%20The%20World's%20Underground%20Cities) |
+| **#023** | Why Lagos Is Where Lagos Is | 🗺️ Geography & Places | [`reports/Mission #023 — Why Lagos Is Where Lagos Is`](reports/Mission%20%23023%20%E2%80%94%20Why%20Lagos%20Is%20Where%20Lagos%20Is) |
+| **#024** | The Future of Lagos | 🗺️ Geography & Places | [`reports/Mission #024 — The Future of Lagos`](reports/Mission%20%23024%20%E2%80%94%20The%20Future%20of%20Lagos) |
+| **#025** | The World's Most Extreme Habitable Places | 🗺️ Geography & Places | [`reports/Mission #025 — The World's Most Extreme Habitable Places`](reports/Mission%20%23025%20%E2%80%94%20The%20World's%20Most%20Extreme%20Habitable%20Places) |
+| **#026** | The Untold Economic History of Nigeria | 🇳🇬 Nigeria | [`reports/Mission #026 — The Untold Economic History of Nigeria`](reports/Mission%20%23026%20%E2%80%94%20The%20Untold%20Economic%20History%20of%20Nigeria) |
+| **#027** | How Nigeria Became Nigeria | 🇳🇬 Nigeria | [`reports/Mission #027 — How Nigeria Became Nigeria`](reports/Mission%20%23027%20%E2%80%94%20How%20Nigeria%20Became%20Nigeria) |
+| **#028** | Nigeria Before Oil | 🇳🇬 Nigeria | [`reports/Mission #028 — Nigeria Before Oil`](reports/Mission%20%23028%20%E2%80%94%20Nigeria%20Before%20Oil) |
+| **#029** | The History of Nigerian Banking | 🇳🇬 Nigeria | [`reports/Mission #029 — The History of Nigerian Banking`](reports/Mission%20%23029%20%E2%80%94%20The%20History%20of%20Nigerian%20Banking) |
+| **#030** | The Story of the Nigerian Naira | 🇳🇬 Nigeria | [`reports/Mission #030 — The Story of the Nigerian Naira`](reports/Mission%20%23030%20%E2%80%94%20The%20Story%20of%20the%20Nigerian%20Naira) |
+| **#031** | Why Nigeria Has So Many Ethnic Groups | 🇳🇬 Nigeria | [`reports/Mission #031 — Why Nigeria Has So Many Ethnic Groups`](reports/Mission%20%23031%20%E2%80%94%20Why%20Nigeria%20Has%20So%20Many%20Ethnic%20Groups) |
+| **#032** | The Nigerian Railway Story | 🇳🇬 Nigeria | [`reports/Mission #032 — The Nigerian Railway Story`](reports/Mission%20%23032%20%E2%80%94%20The%20Nigerian%20Railway%20Story) |
+| **#033** | The Nigerian Port System | 🇳🇬 Nigeria | [`reports/Mission #033 — The Nigerian Port System`](reports/Mission%20%23033%20%E2%80%94%20The%20Nigerian%20Port%20System) |
+| **#034** | Nigerian Cities That Could Have Become Major Global Hubs | 🇳🇬 Nigeria | [`reports/Mission #034 — Nigerian Cities That Could Have Become Major Global Hubs`](reports/Mission%20%23034%20%E2%80%94%20Nigerian%20Cities%20That%20Could%20Have%20Become%20Major%20Global%20Hubs) |
+| **#035** | The History of Nigerian Entrepreneurship | 🇳🇬 Nigeria | [`reports/Mission #035 — The History of Nigerian Entrepreneurship`](reports/Mission%20%23035%20%E2%80%94%20The%20History%20of%20Nigerian%20Entrepreneurship) |
+| **#036** | Why Does Money Have Value? | 💰 Money, Markets & Economics | [`reports/Mission #036 — Why Does Money Have Value`](reports/Mission%20%23036%20%E2%80%94%20Why%20Does%20Money%20Have%20Value%3F) |
+| **#037** | How Banks Actually Create Money | 💰 Money, Markets & Economics | [`reports/Mission #037 — How Banks Actually Create Money`](reports/Mission%20%23037%20%E2%80%94%20How%20Banks%20Actually%20Create%20Money) |
+| **#038** | The History of Financial Crises | 💰 Money, Markets & Economics | [`reports/Mission #038 — The History of Financial Crises`](reports/Mission%20%23038%20%E2%80%94%20The%20History%20of%20Financial%20Crises) |
+| **#039** | Why Some Countries Are Rich | 💰 Money, Markets & Economics | [`reports/Mission #039 — Why Some Countries Are Rich`](reports/Mission%20%23039%20%E2%80%94%20Why%20Some%20Countries%20Are%20Rich) |
+| **#040** | Why Some Countries Stay Poor | 💰 Money, Markets & Economics | [`reports/Mission #040 — Why Some Countries Stay Poor`](reports/Mission%20%23040%20%E2%80%94%20Why%20Some%20Countries%20Stay%20Poor) |
+| **#041** | The Dutch Tulip Mania | 💰 Money, Markets & Economics | [`reports/Mission #041 — The Dutch Tulip Mania`](reports/Mission%20%23041%20%E2%80%94%20The%20Dutch%20Tulip%20Mania) |
+| **#042** | The South Sea Bubble | 💰 Money, Markets & Economics | [`reports/Mission #042 — The South Sea Bubble`](reports/Mission%20%23042%20%E2%80%94%20The%20South%20Sea%20Bubble) |
+| **#043** | The Great Depression | 💰 Money, Markets & Economics | [`reports/Mission #043 — The Great Depression`](reports/Mission%20%23043%20%E2%80%94%20The%20Great%20Depression) |
+| **#044** | Hyperinflation | 💰 Money, Markets & Economics | [`reports/Mission #044 — Hyperinflation`](reports/Mission%20%23044%20%E2%80%94%20Hyperinflation) |
+| **#045** | Why Housing Became So Expensive | 💰 Money, Markets & Economics | [`reports/Mission #045 — Why Housing Became So Expensive`](reports/Mission%20%23045%20%E2%80%94%20Why%20Housing%20Became%20So%20Expensive) |
+| **#046** | The World's Largest Family Businesses | 💰 Money, Markets & Economics | [`reports/Mission #046 — The World's Largest Family Businesses`](reports/Mission%20%23046%20%E2%80%94%20The%20World's%20Largest%20Family%20Businesses) |
+| **#047** | How Billion-Dollar Companies Actually Make Money | 💰 Money, Markets & Economics | [`reports/Mission #047 — How Billion-Dollar Companies Actually Make Money`](reports/Mission%20%23047%20%E2%80%94%20How%20Billion-Dollar%20Companies%20Actually%20Make%20Money) |
+| **#048** | The World's Most Profitable Industries | 💰 Money, Markets & Economics | [`reports/Mission #048 — The World's Most Profitable Industries`](reports/Mission%20%23048%20%E2%80%94%20The%20World's%20Most%20Profitable%20Industries) |
+| **#049** | Why Some Companies Survive for 100+ Years | 🏦 Companies & Business | [`reports/Mission #049 — Why Some Companies Survive for 100+ Years`](reports/Mission%20%23049%20%E2%80%94%20Why%20Some%20Companies%20Survive%20for%20100+%20Years) |
+| **#050** | Companies That Were Once Unstoppable | 🏦 Companies & Business | [`reports/Mission #050 — Companies That Were Once Unstoppable`](reports/Mission%20%23050%20%E2%80%94%20Companies%20That%20Were%20Once%20Unstoppable) |
+| **#051** | The Rise and Fall of Nokia | 🏦 Companies & Business | [`reports/Mission #051 — The Rise and Fall of Nokia`](reports/Mission%20%23051%20%E2%80%94%20The%20Rise%20and%20Fall%20of%20Nokia) |
+| **#052** | The Rise and Fall of Kodak | 🏦 Companies & Business | [`reports/Mission #052 — The Rise and Fall of Kodak`](reports/Mission%20%23052%20%E2%80%94%20The%20Rise%20and%20Fall%20of%20Kodak) |
+| **#053** | Why Some Startups Become Empires | 🏦 Companies & Business | [`reports/Mission #053 — Why Some Startups Become Empires`](reports/Mission%20%23053%20%E2%80%94%20Why%20Some%20Startups%20Become%20Empires) |
+| **#054** | Corporate Scandals That Changed Regulation | 🏦 Companies & Business | [`reports/Mission #054 — Corporate Scandals That Changed Regulation`](reports/Mission%20%23054%20%E2%80%94%20Corporate%20Scandals%20That%20Changed%20Regulation) |
+| **#055** | The World's Most Powerful Family Businesses | 🏦 Companies & Business | [`reports/Mission #055 — The World's Most Powerful Family Businesses`](reports/Mission%20%23055%20%E2%80%94%20The%20World's%20Most%20Powerful%20Family%20Businesses) |
+| **#056** | How McDonald's Became a Global Institution | 🏦 Companies & Business | [`reports/Mission #056 — How McDonald's Became a Global Institution`](reports/Mission%20%23056%20%E2%80%94%20How%20McDonald's%20Became%20a%20Global%20Institution) |
+| **#057** | How Walmart Built Its Empire | 🏦 Companies & Business | [`reports/Mission #057 — How Walmart Built Its Empire`](reports/Mission%20%23057%20%E2%80%94%20How%20Walmart%20Built%20Its%20Empire) |
+| **#058** | The Secret Economics of Luxury Brands | 🏦 Companies & Business | [`reports/Mission #058 — The Secret Economics of Luxury Brands`](reports/Mission%20%23058%20%E2%80%94%20The%20Secret%20Economics%20of%20Luxury%20Brands) |
+| **#059** | How We Discovered Electricity | 🔬 Science | [`reports/Mission #059 — How We Discovered Electricity`](reports/Mission%20%23059%20%E2%80%94%20How%20We%20Discovered%20Electricity) |
+| **#060** | The History of Human Understanding of Disease | 🔬 Science | [`reports/Mission #060 — The History of Human Understanding of Disease`](reports/Mission%20%23060%20%E2%80%94%20The%20History%20of%20Human%20Understanding%20of%20Disease) |
+| **#061** | The Discovery of DNA | 🔬 Science | [`reports/Mission #061 — The Discovery of DNA`](reports/Mission%20%23061%20%E2%80%94%20The%20Discovery%20of%20DNA) |
+| **#062** | How Vaccines Were Invented | 🔬 Science | [`reports/Mission #062 — How Vaccines Were Invented`](reports/Mission%20%23062%20%E2%80%94%20How%20Vaccines%20Were%20Invented) |
+| **#063** | The Scientific Revolution | 🔬 Science | [`reports/Mission #063 — The Scientific Revolution`](reports/Mission%20%23063%20%E2%80%94%20The%20Scientific%20Revolution) |
+| **#064** | The Greatest Scientific Rivalries | 🔬 Science | [`reports/Mission #064 — The Greatest Scientific Rivalries`](reports/Mission%20%23064%20%E2%80%94%20The%20Greatest%20Scientific%20Rivalries) |
+| **#065** | Scientific Discoveries Made by Accident | 🔬 Science | [`reports/Mission #065 — Scientific Discoveries Made by Accident`](reports/Mission%20%23065%20%E2%80%94%20Scientific%20Discoveries%20Made%20by%20Accident) |
+| **#066** | Things Science Still Cannot Explain | 🔬 Science | [`reports/Mission #066 — Things Science Still Cannot Explain`](reports/Mission%20%23066%20%E2%80%94%20Things%20Science%20Still%20Cannot%20Explain) |
+| **#067** | The Deepest Thing Humans Have Ever Measured | 🔬 Science | [`reports/Mission #067 — The Deepest Thing Humans Have Ever Measured`](reports/Mission%20%23067%20%E2%80%94%20The%20Deepest%20Thing%20Humans%20Have%20Ever%20Measured) |
+| **#068** | How We Know the Earth Is Ancient | 🔬 Science | [`reports/Mission #068 — How We Know the Earth Is Ancient`](reports/Mission%20%23068%20%E2%80%94%20How%20We%20Know%20the%20Earth%20Is%20Ancient) |
+| **#069** | How We Know the Universe Is Expanding | 🔬 Science | [`reports/Mission #069 — How We Know the Universe Is Expanding`](reports/Mission%20%23069%20%E2%80%94%20How%20We%20Know%20the%20Universe%20Is%20Expanding) |
+| **#070** | The Search for Life Beyond Earth | 🔬 Science | [`reports/Mission #070 — The Search for Life Beyond Earth`](reports/Mission%20%23070%20%E2%80%94%20The%20Search%20for%20Life%20Beyond%20Earth) |
+| **#071** | How the Solar System Formed | 🌌 Space | [`reports/Mission #071 — How the Solar System Formed`](reports/Mission%20%23071%20%E2%80%94%20How%20the%20Solar%20System%20Formed) |
+| **#072** | The Race to the Moon | 🌌 Space | [`reports/Mission #072 — The Race to the Moon`](reports/Mission%20%23072%20%E2%80%94%20The%20Race%20to%20the%20Moon) |
+| **#073** | Why Mars Captures Human Imagination | 🌌 Space | [`reports/Mission #073 — Why Mars Captures Human Imagination`](reports/Mission%20%23073%20%E2%80%94%20Why%20Mars%20Captures%20Human%20Imagination) |
+| **#074** | What Would It Take to Build a City on Mars? | 🌌 Space | [`reports/Mission #074 — What Would It Take to Build a City on Mars`](reports/Mission%20%23074%20%E2%80%94%20What%20Would%20It%20Take%20to%20Build%20a%20City%20on%20Mars%3F) |
+| **#075** | The Strange Worlds of the Solar System | 🌌 Space | [`reports/Mission #075 — The Strange Worlds of the Solar System`](reports/Mission%20%23075%20%E2%80%94%20The%20Strange%20Worlds%20of%20the%20Solar%20System) |
+| **#076** | Black Holes: What We Actually Know | 🌌 Space | [`reports/Mission #076 — Black Holes What We Actually Know`](reports/Mission%20%23076%20%E2%80%94%20Black%20Holes%3A%20What%20We%20Actually%20Know) |
+| **#077** | The Search for Extraterrestrial Intelligence | 🌌 Space | [`reports/Mission #077 — The Search for Extraterrestrial Intelligence`](reports/Mission%20%23077%20%E2%80%94%20The%20Search%20for%20Extraterrestrial%20Intelligence) |
+| **#078** | The Space Race Beyond America and Russia | 🌌 Space | [`reports/Mission #078 — The Space Race Beyond America and Russia`](reports/Mission%20%23078%20%E2%80%94%20The%20Space%20Race%20Beyond%20America%20and%20Russia) |
+| **#079** | The Economics of Space | 🌌 Space | [`reports/Mission #079 — The Economics of Space`](reports/Mission%20%23079%20%E2%80%94%20The%20Economics%20of%20Space) |
+| **#080** | The History of Space Stations | 🌌 Space | [`reports/Mission #080 — The History of Space Stations`](reports/Mission%20%23080%20%E2%80%94%20The%20History%20of%20Space%20Stations) |
+| **#081** | The Parts of Earth We Barely Know | 🌊 Oceans & Earth | [`reports/Mission #081 — The Parts of Earth We Barely Know`](reports/Mission%20%23081%20%E2%80%94%20The%20Parts%20of%20Earth%20We%20Barely%20Know) |
+| **#082** | The Deep-Sea Economy | 🌊 Oceans & Earth | [`reports/Mission #082 — The Deep-Sea Economy`](reports/Mission%20%23082%20%E2%80%94%20The%20Deep-Sea%20Economy) |
+| **#083** | How Ocean Currents Shape Civilization | 🌊 Oceans & Earth | [`reports/Mission #083 — How Ocean Currents Shape Civilization`](reports/Mission%20%23083%20%E2%80%94%20How%20Ocean%20Currents%20Shape%20Civilization) |
+| **#084** | The World's Great Rivers | 🌊 Oceans & Earth | [`reports/Mission #084 — The World's Great Rivers`](reports/Mission%20%23084%20%E2%80%94%20The%20World's%20Great%20Rivers) |
+| **#085** | The Story of the Sahara | 🌊 Oceans & Earth | [`reports/Mission #085 — The Story of the Sahara`](reports/Mission%20%23085%20%E2%80%94%20The%20Story%20of%20the%20Sahara) |
+| **#086** | When the Sahara Was Green | 🌊 Oceans & Earth | [`reports/Mission #086 — When the Sahara Was Green`](reports/Mission%20%23086%20%E2%80%94%20When%20the%20Sahara%20Was%20Green) |
+| **#087** | Earth's Greatest Natural Disasters | 🌊 Oceans & Earth | [`reports/Mission #087 — Earth's Greatest Natural Disasters`](reports/Mission%20%23087%20%E2%80%94%20Earth's%20Greatest%20Natural%20Disasters) |
+| **#088** | Supervolcanoes | 🌊 Oceans & Earth | [`reports/Mission #088 — Supervolcanoes`](reports/Mission%20%23088%20%E2%80%94%20Supervolcanoes) |
+| **#089** | Why Earth Has Continents | 🌊 Oceans & Earth | [`reports/Mission #089 — Why Earth Has Continents`](reports/Mission%20%23089%20%E2%80%94%20Why%20Earth%20Has%20Continents) |
+| **#090** | The World's Most Dangerous Natural Environments | 🌊 Oceans & Earth | [`reports/Mission #090 — The World's Most Dangerous Natural Environments`](reports/Mission%20%23090%20%E2%80%94%20The%20World's%20Most%20Dangerous%20Natural%20Environments) |
+| **#091** | Why Do Countries Have Different Political Systems? | 🏛️ Politics, States & Institutions | [`reports/Mission #091 — Why Do Countries Have Different Political Systems`](reports/Mission%20%23091%20%E2%80%94%20Why%20Do%20Countries%20Have%20Different%20Political%20Systems%3F) |
+| **#092** | How Modern Democracy Emerged | 🏛️ Politics, States & Institutions | [`reports/Mission #092 — How Modern Democracy Emerged`](reports/Mission%20%23092%20%E2%80%94%20How%20Modern%20Democracy%20Emerged) |
+| **#093** | Why Do Empires Expand? | 🏛️ Politics, States & Institutions | [`reports/Mission #093 — Why Do Empires Expand`](reports/Mission%20%23093%20%E2%80%94%20Why%20Do%20Empires%20Expand%3F) |
+| **#094** | Why Do Empires Collapse? | 🏛️ Politics, States & Institutions | [`reports/Mission #094 — Why Do Empires Collapse`](reports/Mission%20%23094%20%E2%80%94%20Why%20Do%20Empires%20Collapse%3F) |
+| **#095** | How Borders Are Created | 🏛️ Politics, States & Institutions | [`reports/Mission #095 — How Borders Are Created`](reports/Mission%20%23095%20%E2%80%94%20How%20Borders%20Are%20Created) |
+| **#096** | The World's Oldest Constitutions | 🏛️ Politics, States & Institutions | [`reports/Mission #096 — The World's Oldest Constitutions`](reports/Mission%20%23096%20%E2%80%94%20The%20World's%20Oldest%20Constitutions) |
+| **#097** | How Bureaucracies Became So Powerful | 🏛️ Politics, States & Institutions | [`reports/Mission #097 — How Bureaucracies Became So Powerful`](reports/Mission%20%23097%20%E2%80%94%20How%20Bureaucracies%20Became%20So%20Powerful) |
+| **#098** | Why Some Governments Deliver Better Public Services | 🏛️ Politics, States & Institutions | [`reports/Mission #098 — Why Some Governments Deliver Better Public Services`](reports/Mission%20%23098%20%E2%80%94%20Why%20Some%20Governments%20Deliver%20Better%20Public%20Services) |
+| **#099** | The History of Taxation | 🏛️ Politics, States & Institutions | [`reports/Mission #099 — The History of Taxation`](reports/Mission%20%23099%20%E2%80%94%20The%20History%20of%20Taxation) |
 | **#100** | The World's Most Unusual Political Institutions | 🏛️ Politics, States & Institutions | [`reports/Mission #100 — The World's Most Unusual Political Institutions`](reports/Mission%20%23100%20%E2%80%94%20The%20World's%20Most%20Unusual%20Political%20Institutions) |
 | **#101** | Why Wars Start | ⚔️ War & Military History | [`reports/Mission #101 — Why Wars Start`](reports/Mission%20%23101%20%E2%80%94%20Why%20Wars%20Start) |
 | **#102** | The Logistics of War | ⚔️ War & Military History | [`reports/Mission #102 — The Logistics of War`](reports/Mission%20%23102%20%E2%80%94%20The%20Logistics%20of%20War) |
